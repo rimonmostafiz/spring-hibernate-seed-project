@@ -5,7 +5,6 @@ import com.rimonmostafiz.core.services.AppUserService;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
-import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
 

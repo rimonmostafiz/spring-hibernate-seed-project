@@ -3,7 +3,6 @@ package com.rimonmostafiz;
 import com.rimonmostafiz.config.AppConfig;
 import com.rimonmostafiz.core.entities.AppUser;
 import com.rimonmostafiz.core.services.AppUserService;
-import com.rimonmostafiz.core.services.impl.AppUserServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
